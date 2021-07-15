@@ -1,0 +1,18 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@3.1.0
+  - Uniswap/uniswap-v2-periphery@1.0.0-beta.0
+  - Uniswap/uniswap-v2-core@1.0.1
+ 
+
+
+compiler:
+  solc:
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@3.1.0"
+  
+
+
+deployed:
+  SwappyGanacheCLI: "0x3194cBDC3dbcd3E11a07892e7bA5c3394048Cc87"
+
+    
